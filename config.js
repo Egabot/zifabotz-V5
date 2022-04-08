@@ -1,10 +1,10 @@
 // Thanks For Allah
 // AlyaaXzy
 // BOTCAHX
-// Zifabotz
+// Skdpbot
 
 let fs = require('fs')
-global.owner = ['6285828764046', '6285828764046','6285828764046', '6285828764046', '6285828764046'] // Letakan nomor kamu disini
+global.owner = ['6285828764046', '6285828764046','6285828764046', '6285828764046', '6283875880051'] // Letakan nomor kamu disini
 global.APIs = { // API Prefix
   // nama: 'https://website'
   hardianto: 'https://hardianto-chan.herokuapp.com',
@@ -41,8 +41,8 @@ global.APIKeys = { // APIKey nya disini
 }
 
 // Sticker WM
-global.packname = 'rozi'
-global.author = 'zifa'
+global.packname = 'sadbot'
+global.author = 'Skpd'
 
 global.wait = '▰▰▰▰▱▱▱▱▱▱ ʟᴏᴀᴅɪɴɢ...'
 global.eror = '「❗」Server LAGI ERROR COK!'
